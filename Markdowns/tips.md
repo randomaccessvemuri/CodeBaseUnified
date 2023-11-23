@@ -12,3 +12,11 @@ I write all my commonly faced problems here, so that when I eventually encounter
   ```
 
   **Note**: You'll have to seperately install gcc-10 and g++-10 for this to work!
+
+
+  ## CMake Related
+
+  - ### Installing the latest version of CMake:
+    So, by default, Ubuntu installs an old version of cmake, which may not be compatible with things like DPC++ etc.
+    To solve this, follow this guide:
+            ```https://askubuntu.com/questions/355565/how-do-i-install-the-latest-version-of-cmake-from-the-command-line```
